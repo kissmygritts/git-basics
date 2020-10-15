@@ -2,6 +2,6 @@
 
 Learning git is fun and useful.
 
-## Adding new header
+## Git status
 
-To show git status with a remote branch
+`git status` is used to show the states of your files in a repo.
