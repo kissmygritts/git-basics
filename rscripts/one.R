@@ -1,1 +1,0 @@
-print("hellow from one.R")
